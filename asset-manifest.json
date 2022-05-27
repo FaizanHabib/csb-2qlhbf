@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://faizanhabib.github.io/csb-2qlhbf/static/css/main.f349e9bc.chunk.css",
+    "main.js": "https://faizanhabib.github.io/csb-2qlhbf/static/js/main.f7a68d74.chunk.js",
+    "main.js.map": "https://faizanhabib.github.io/csb-2qlhbf/static/js/main.f7a68d74.chunk.js.map",
+    "runtime-main.js": "https://faizanhabib.github.io/csb-2qlhbf/static/js/runtime-main.53c1791f.js",
+    "runtime-main.js.map": "https://faizanhabib.github.io/csb-2qlhbf/static/js/runtime-main.53c1791f.js.map",
+    "static/js/2.c4f55d9c.chunk.js": "https://faizanhabib.github.io/csb-2qlhbf/static/js/2.c4f55d9c.chunk.js",
+    "static/js/2.c4f55d9c.chunk.js.map": "https://faizanhabib.github.io/csb-2qlhbf/static/js/2.c4f55d9c.chunk.js.map",
+    "index.html": "https://faizanhabib.github.io/csb-2qlhbf/index.html",
+    "static/css/main.f349e9bc.chunk.css.map": "https://faizanhabib.github.io/csb-2qlhbf/static/css/main.f349e9bc.chunk.css.map",
+    "static/js/2.c4f55d9c.chunk.js.LICENSE.txt": "https://faizanhabib.github.io/csb-2qlhbf/static/js/2.c4f55d9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53c1791f.js",
+    "static/js/2.c4f55d9c.chunk.js",
+    "static/css/main.f349e9bc.chunk.css",
+    "static/js/main.f7a68d74.chunk.js"
+  ]
+}
